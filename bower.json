@@ -16,6 +16,7 @@
 	"guara": "master",	
 	"g-base": "master",
 	"g-menu": "master",
-	"g-hmenu": "master"
+	"g-hmenu": "master",
+	"g-icon": "master"
   }
 }
