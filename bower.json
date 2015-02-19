@@ -18,7 +18,6 @@
 	"g-menu": "master",
 	"g-hmenu": "master",
 	"g-icon": "master",
-	"g-file": "master",
 	"g-input": "master",
 	"g-button": "master",
 	"g-dropdown": "master",
@@ -26,6 +25,8 @@
 	"g-tooltip": "master",
 	"g-cell": "master",
 	"g-table": "master",
-	"g-excel": "master"
+	"g-excel": "master",
+	"g-file": "master",
+	"g-remote-file": "master"
   }
 }
