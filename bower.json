@@ -24,6 +24,7 @@
 	"g-spinner": "master",
 	"g-tooltip": "master",
 	"g-cell": "master",
-	"g-table": "master"
+	"g-table": "master",
+	"g-excel": "master"
   }
 }
