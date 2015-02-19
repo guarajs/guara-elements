@@ -19,6 +19,7 @@
 	"g-hmenu": "master",
 	"g-icon": "master",
 	"g-file": "master",
-	"g-input": "master"
+	"g-input": "master",
+	"g-button": "master"
   }
 }
