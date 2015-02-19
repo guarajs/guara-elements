@@ -21,6 +21,7 @@
 	"g-file": "master",
 	"g-input": "master",
 	"g-button": "master",
+	"g-dropdown": "master",
 	"g-spinner": "master",
 	"g-tooltip": "master",
 	"g-cell": "master",
