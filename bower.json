@@ -23,6 +23,7 @@
 	"g-button": "master",
 	"g-spinner": "master",
 	"g-tooltip": "master",
-	"g-cell": "master"
+	"g-cell": "master",
+	"g-table": "master"
   }
 }
