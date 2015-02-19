@@ -21,6 +21,7 @@
 	"g-file": "master",
 	"g-input": "master",
 	"g-button": "master",
-	"g-spinner": "master"
+	"g-spinner": "master",
+	"g-tooltip": "master"
   }
 }
