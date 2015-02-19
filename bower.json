@@ -27,6 +27,7 @@
 	"g-table": "master",
 	"g-excel": "master",
 	"g-file": "master",
-	"g-remote-file": "master"
+	"g-remote-file": "master",
+	"g-date": "master"
   }
 }
