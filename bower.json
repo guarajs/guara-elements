@@ -30,6 +30,7 @@
 	"g-excel": "master",
 	"g-file": "master",
 	"g-remote-file": "master",
-	"g-date": "master"
+	"g-date": "master",
+	"g-form": "master"
   }
 }
