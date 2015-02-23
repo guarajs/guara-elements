@@ -15,6 +15,7 @@
   "dependencies": {
 	"guara": "master",	
 	"g-base": "master",
+	"g-alert": "master",
 	"g-menu": "master",
 	"g-hmenu": "master",
 	"g-icon": "master",
