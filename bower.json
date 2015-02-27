@@ -32,6 +32,7 @@
 	"g-file": "master",
 	"g-remote-file": "master",
 	"g-date": "master",
+	"g-datepicker": "master",
 	"g-form": "master"
   }
 }
