@@ -34,6 +34,7 @@
 	"g-date": "master",
 	"g-datepicker": "master",
 	"g-form": "master",
-	"g-push": "master"
+	"g-push": "master",
+    "g-facebook": "master"
   }
 }
