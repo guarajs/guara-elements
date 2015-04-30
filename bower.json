@@ -35,6 +35,8 @@
 	"g-datepicker": "master",
 	"g-form": "master",
 	"g-push": "master",
-    "g-facebook": "master"
+    "g-facebook": "master",
+    "g-twitter-login": "master",
+    "g-app-controller": "master"
   }
 }
