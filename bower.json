@@ -37,6 +37,7 @@
 	"g-push": "master",
     "g-facebook": "master",
     "g-twitter-login": "master",
+    "g-cookies": "master",
     "g-app-controller": "master"
   }
 }
